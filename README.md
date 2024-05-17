@@ -1,2 +1,2 @@
 # Dice-game
-a basic dice games with some js.
+A basic dice games with some js.
